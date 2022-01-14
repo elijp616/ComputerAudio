@@ -1,0 +1,9 @@
+FreeSound Source URL: 
+
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+I used a frequency cutoff. The filter cuts off frequency above the set value.

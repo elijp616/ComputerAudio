@@ -1,0 +1,2 @@
+I recorded my voice to .wav files online and used the intermission file provided. 
+I used a high pass filter to make sure that the clip has good quality at the higher frequencies. Then I ducked the gain .5 per second. I definetly struggled with my voice getting drowned out by the intermission file before I added the filter.
